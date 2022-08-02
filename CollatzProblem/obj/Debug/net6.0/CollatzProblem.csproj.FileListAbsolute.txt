@@ -1,0 +1,15 @@
+C:\C#\CollatzProblem\CollatzProblem\bin\Debug\net6.0\CollatzProblem.exe
+C:\C#\CollatzProblem\CollatzProblem\bin\Debug\net6.0\CollatzProblem.deps.json
+C:\C#\CollatzProblem\CollatzProblem\bin\Debug\net6.0\CollatzProblem.runtimeconfig.json
+C:\C#\CollatzProblem\CollatzProblem\bin\Debug\net6.0\CollatzProblem.dll
+C:\C#\CollatzProblem\CollatzProblem\bin\Debug\net6.0\CollatzProblem.pdb
+C:\C#\CollatzProblem\CollatzProblem\obj\Debug\net6.0\CollatzProblem.csproj.AssemblyReference.cache
+C:\C#\CollatzProblem\CollatzProblem\obj\Debug\net6.0\CollatzProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CollatzProblem\CollatzProblem\obj\Debug\net6.0\CollatzProblem.AssemblyInfoInputs.cache
+C:\C#\CollatzProblem\CollatzProblem\obj\Debug\net6.0\CollatzProblem.AssemblyInfo.cs
+C:\C#\CollatzProblem\CollatzProblem\obj\Debug\net6.0\CollatzProblem.csproj.CoreCompileInputs.cache
+C:\C#\CollatzProblem\CollatzProblem\obj\Debug\net6.0\CollatzProblem.dll
+C:\C#\CollatzProblem\CollatzProblem\obj\Debug\net6.0\refint\CollatzProblem.dll
+C:\C#\CollatzProblem\CollatzProblem\obj\Debug\net6.0\CollatzProblem.pdb
+C:\C#\CollatzProblem\CollatzProblem\obj\Debug\net6.0\CollatzProblem.genruntimeconfig.cache
+C:\C#\CollatzProblem\CollatzProblem\obj\Debug\net6.0\ref\CollatzProblem.dll
